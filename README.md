@@ -21,7 +21,7 @@ Modelagem e Treinamento: Um modelo Random Forest Regressor com 100 estimadores (
 
 Avaliação: O desempenho do modelo foi avaliado no conjunto de teste.
 
-📊 Resultados do Modelo
+Resultados do Modelo
 O modelo treinado alcançou os seguintes resultados no conjunto de teste:
 
 RMSE (Root Mean Squared Error): $28,937.00
