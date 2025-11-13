@@ -36,3 +36,12 @@ R
   (0.8908): Indica que o modelo é capaz de explicar aproximadamente 89% da variância nos preços das casas, demonstrando um alto poder preditivo.
 
 RMSE ($28,937.00): O erro médio de previsão do modelo é de cerca de $28.937,00. Isso significa que, em média, a previsão do preço de venda está próxima do valor real por essa quantia.
+
+Como Executar o Projeto
+Pré-requisitos: Certifique-se de ter Python e as bibliotecas Pandas, NumPy e Scikit-learn instaladas.
+
+Download dos Dados: O dataset deve ser obtido na página oficial do Kaggle:
+
+Link do Dataset: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
+
+Execução: Rode as células do notebook sequencialmente em um ambiente como Google Colab ou Jupyter Notebook, garantindo que o arquivo train.csv esteja no diretório de trabalho.
