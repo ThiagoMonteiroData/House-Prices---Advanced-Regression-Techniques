@@ -44,4 +44,4 @@ Download dos Dados: O dataset deve ser obtido na página oficial do Kaggle:
 
 Link do Dataset: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 
-Execução: Rode as células do notebook sequencialmente em um ambiente como Google Colab ou Jupyter Notebook, garantindo que o arquivo train.csv esteja no diretório de trabalho.
+Execução: Rode as células do notebook sequencialmente em um ambiente como Google Colab ou Jupyter Notebook
